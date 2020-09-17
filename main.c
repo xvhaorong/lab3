@@ -1,8 +1,9 @@
 // Author: Haorong Xu hxx5086@psu.edu 
-// Collaborator: 
-// Collaborator: 
+// Collaborator: John Heil jch70@psu.edu
+// Collaborator: Param Nigam pqn5106@psu.edu
+// Collarborator: Kunmao Yu kzy5155@psu.edu
 // Section: 12
-// Breakout: 
+// Breakout: 15 
 
 #include <stdio.h>
 #include <readline/readline.h>
